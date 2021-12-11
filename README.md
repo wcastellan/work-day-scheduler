@@ -17,7 +17,7 @@ have interactive events.
 https://wcastellan.github.io/work-day-scheduler/
 
 ## Picture
-![Alt text](https://github.com/wcastellan/work-day-scheduler/blob/main/assets/image/Capture.PNG)
+![Alt text](https://github.com/wcastellan/work-day-scheduler/blob/main/assets/image/work-day-scheduler-image.PNG)
 
 ## Contribution
 Wyatt C.
